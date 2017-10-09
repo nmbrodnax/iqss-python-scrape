@@ -1,8 +1,11 @@
 # hello.py
 # Introduction to Web Scraping with Python
+# Harvard IQSS
+# October 13, 2017
+
 # NaLette Brodnax
+# nbrodnax@iq.harvard.edu
 # www.nalettebrodnax.com
-# September 30, 2016
 
 print("Hello, world.")
 
