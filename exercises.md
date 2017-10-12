@@ -30,15 +30,3 @@
 
 [Click here](https://raw.githubusercontent.com/nmbrodnax/iqss-python-scrape/master/files/review.py) to download the code for all exercises.
 
-
-### Part 4: RAPTOR
-
- 1. Review
-
- 2. Access
-
- 3. Parse
-
- 4. Transform
-
- 5. Store
