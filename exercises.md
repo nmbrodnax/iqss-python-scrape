@@ -6,7 +6,7 @@
 
 ### Part 1: Introduction
 
- 1. Complete the one-minute poll at [TBD](http://bit.ly)
+ 1. Complete the one-minute poll at [bit.ly/dsspoll](http://bit.ly/dsspoll).
 
 ### Part 2: Getting the Tools
 
@@ -29,5 +29,5 @@
  4. Add a statement to import functions from the `requests` Python library.  Use the `.get()` method to request the contents of the following webpage: http://ww2.amstat.org/publications/jse/jse_data_archive.htm. Use a print statement to display the HTTP response code for the request.
 
 
-[Click here](https://raw.githubusercontent.com/nmbrodnax/iqss-python-scrape/master/files/review.py) to download the code for all exercises.
+[Click here](https://dss.iq.harvard.edu/workshop-materials) to download the code for all exercises.
 
