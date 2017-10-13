@@ -13,16 +13,12 @@ print(datasets[0])
 print(datasets[2:4])
 print(datasets[-2])
 
-for name in datasets:
-    print(name + '.txt')
-
 data_info = {'filename': 'airport', 'title': 'US Airport Statistics',
              'observations': 135}
 print(data_info['title'])
 
-import requests
-page = requests.get('http://ww2.amstat.org/publications/jse/jse_data_archive.htm')
-print(page)
+for name in datasets:
+    print(name + '.txt')
 
 def add_extensions(names):
     """adds '.txt' to each string in a list
@@ -33,5 +29,10 @@ def add_extensions(names):
     return filenames
 
 print(add_extensions(datasets))
+
+import requests
+page = requests.get('http://ww2.amstat.org/publications/jse/jse_data_archive.htm')
+print(page)
+
 
       
