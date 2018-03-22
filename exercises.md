@@ -29,5 +29,5 @@
  4. Add a statement to import functions from the `requests` Python library.  Use the `.get()` method to request the contents of the following webpage: http://ww2.amstat.org/publications/jse/jse_data_archive.htm. Use a print statement to display the HTTP response code for the request.
 
 
-[Click here](https://github.com/nmbrodnax/iqss-python-scrape/tree/master/files) to download the code for all exercises.
+[Click here](https://github.com/nmbrodnax/iqss-python-scrape/blob/master/files/intro_web_scraping.zip) to download the code for all exercises.
 
